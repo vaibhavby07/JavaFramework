@@ -5,5 +5,6 @@ public class classA {
 	{
 	 System.out.println("changessssss java");
 	}
+	System.out.println("open the code");
 
 }
